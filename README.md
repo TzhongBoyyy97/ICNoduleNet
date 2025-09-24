@@ -23,8 +23,8 @@ Overall architecture of the proposed ICNoduleNet. ICNoduleNet is an end-to-end n
 
 ## Citations
 If you are using the code/model/data provided here in a publication, please consider citing:
-
-@article{lan2024icnodulenet,
+<details> <summary><b>
+  @article{lan2024icnodulenet,
   title={Icnodulenet: Enhancing pulmonary nodule detection performance on sharp kernel ct imaging},
   author={Lan, Tianzhong and Zeng, Fanxin and Yi, Zhang and Xu, Xiuyuan and Zhu, Min},
   journal={IEEE Journal of Biomedical and Health Informatics},
@@ -34,6 +34,9 @@ If you are using the code/model/data provided here in a publication, please cons
   year={2024},
   publisher={IEEE}
 }
+</b></summary>
+
+
 
 ## Contact
 For any questions, please contact me via e-mail: lantianzhong1@stu.scu.edu.cn.
