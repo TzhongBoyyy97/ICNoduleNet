@@ -37,4 +37,4 @@ If you are using the code/model/data provided here in a publication, please cons
 ```
 
 ## Contact
-For any questions, please contact me via e-mail: lantianzhong1@stu.scu.edu.cn.
+For any questions, please contact me via e-mail: lantianzhong1@stu.scu.edu.cn. The RKPN dataset can only be used for research, not for commercial purposes.
